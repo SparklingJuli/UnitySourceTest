@@ -16,16 +16,16 @@ local.properties
 .settings/
 .loadpath
 
-# Unity .gitignore file.
-.DS_Store
+# All platforms
 Library
-Library/*
+Temp
 *.csproj
+*.pidb
+*.unityproj
 *.sln
 *.userprefs
-Temp
-*.pidb
-Build
+
+
 
 # External tool builders
 .externalToolBuilders/
